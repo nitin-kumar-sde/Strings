@@ -1,10 +1,10 @@
-## 📄 mystl::string
+## ⏰ mystl::string
 
 A lightweight, custom implementation of the standard `std::string` class, providing essential string operations with dynamic memory management.
 
 ---
 
-### ✨ Features
+## 💵 Features
 
 - Dynamic character storage  
 - Copy and move semantics  
@@ -15,9 +15,9 @@ A lightweight, custom implementation of the standard `std::string` class, provid
 
 ---
 
-### 🧪 Example Usage
+### 🪶 Example Usage
 
-```cpp
+```
 #include <iostream>
 #include "string.hpp" 
 
@@ -29,3 +29,13 @@ int main() {
     std::cout << s3 << std::endl; 
     return 0;
 }
+```
+---
+
+## 🎸 Pattern matching
+TBD
+
+---
+
+## ✈️ Trie
+TBD
