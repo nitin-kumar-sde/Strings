@@ -19,17 +19,13 @@ A lightweight, custom implementation of the standard `std::string` class, provid
 
 ```cpp
 #include <iostream>
-#include "string.hpp"  // Replace with your actual file name
+#include "string.hpp" 
 
 int main() {
     mystl::string s1("Hello");
     mystl::string s2("World");
 
     mystl::string s3 = s1 + " " + s2;
-    std::cout << s3 << std::endl;  // Output: Hello World
-
-    s3[0] = 'h';
-    std::cout << s3 << std::endl;  // Output: hello World
-
+    std::cout << s3 << std::endl; 
     return 0;
 }
