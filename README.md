@@ -43,4 +43,8 @@ int main() {
 ---
 
 # ✈️ Trie
-TBD
+
+[Tutorial](https://www.geeksforgeeks.org/dsa/trie-insert-and-search)
+
+[Suffix Tries for Pattern matching](https://www.geeksforgeeks.org/dsa/pattern-searching-using-suffix-tree)
+
