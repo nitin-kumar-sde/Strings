@@ -44,7 +44,13 @@ int main() {
 
 # ✈️ Trie
 
-[Tutorial](https://www.geeksforgeeks.org/dsa/trie-insert-and-search)
+- [Trie Tutorial](https://www.geeksforgeeks.org/dsa/trie-insert-and-search)
 
-[Suffix Tries for Pattern matching](https://www.geeksforgeeks.org/dsa/pattern-searching-using-suffix-tree)
+- [Suffix Tries for Pattern matching](https://www.geeksforgeeks.org/dsa/pattern-searching-using-suffix-tree)
 
+
+## 🕊 Trie with XoR
+
+- [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)
+- [Maximum Subarray XOR](https://www.geeksforgeeks.org/dsa/find-the-maximum-subarray-xor-in-a-given-array)
+- [Subarrays XOR less than K](https://www.hackerearth.com/problem/algorithm/subarrays-xor)
