@@ -33,6 +33,13 @@ int main() {
 ```
 ---
 
+# 🎩 Standard Problems
+
+- [Longest Palindrome Substring](https://www.geeksforgeeks.org/dsa/longest-palindromic-substring)
+  
+
+---
+
 # 🎸 Pattern matching
 
 - [String Hashing](https://cp-algorithms.com/string/string-hashing.html)
